@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebtnorth&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+Self-proclaimed "renaissance man" of computing. Experience in Python, C++, Java, C#, GDScript, Visual Basic, SQL, CMD, and bash. Familiar with programs and frameworks such as git, Flask, PySide6 / PyQt6, nginx, and Gunicorn and softwares such as VS Code, Inkscape, GIMP, Blender, DaVinci Resolve, and FL Studio. 
